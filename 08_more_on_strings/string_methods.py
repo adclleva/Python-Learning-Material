@@ -1,4 +1,3 @@
-import pyperclip
 # string methods
 
 # The upper(), lower(), isupper(), and islower() String Methods
@@ -116,6 +115,6 @@ spam.replace('e', 'XYZ')
 # 'HXYZllo thXYZrXYZ!'
 
 # Copying and Pasting Strings with the pyperclip Module
-pyperclip.copy('Hello world!')
-pyperclip.paste()
+# pyperclip.copy('Hello world!')
+# pyperclip.paste()
 # 'Hello world!'
