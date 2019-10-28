@@ -1,4 +1,4 @@
-imoprt copy
+import copy
 
 list('Hello')
  # ['H', 'e', 'l', 'l', 'o']

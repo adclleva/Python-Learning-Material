@@ -130,6 +130,7 @@ print(b)
 # Alice
 
 # Augmented Assignment Operators
+spam = 100
 spam += 1
 spam -= 1
 spam *= 1
